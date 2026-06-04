@@ -9,12 +9,11 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name       = "Dwi Fajar"
+        self.name       = "Dwi Fajar Novianto"
         self.location   = "Indonesia 🇮🇩"
-        self.role       = "Data Scientist & AI Engineer"
+        self.role       = "Mathematics Student "
         self.languages  = ["Python", "R", "SQL"]
-        self.interests  = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
-        self.passion    = "Building intelligent systems that make sense of data"
+        self.interests  = ["Deep Learning", "NLP", "Computer Vision", "Machine Learning"]
 
     def quote(self):
         print("Data never lies... but people do. ")
