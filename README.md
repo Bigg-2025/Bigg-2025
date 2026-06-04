@@ -1,7 +1,5 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+%F0%9F%8C%8D;I'm+Dwi+Fajar+%F0%9F%91%8B" alt="Typing SVG" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=DATA%20SCIENTIST%20%7C%20AI%20ENGINEER&fontSize=36&fontColor=00F5FF&fontAlignY=38&desc=Turning%20raw%20data%20into%20intelligent%20decisions&descAlignY=58&descSize=16&descColor=FF00AA&animation=twinkling" width="100%"/>
 </div>
 
 ---
