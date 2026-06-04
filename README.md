@@ -13,14 +13,13 @@ class DataScientist:
         self.location   = "Indonesia 🇮🇩"
         self.role       = "Data Scientist & AI Engineer"
         self.languages  = ["Python", "R", "SQL"]
-        self.interests  = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
-        self.passion    = "Building intelligent systems that make sense of data"
+        self.interests  = ["Deep Learning", "NLP", "Computer Vision", "Data Analysis"]
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing with AI 🚀")
+       def quote(self):
+         print("Data never lies... but people do. ")
 
 me = DataScientist()
-me.say_hi()
+me.quote()
 ```
 
 ---
@@ -56,7 +55,6 @@ me.say_hi()
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
