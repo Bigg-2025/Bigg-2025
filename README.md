@@ -7,7 +7,7 @@
 ## 🤖 About Me
 
 ```python
-class DataScientist:
+class AboutMe:
     def __init__(self):
         self.name       = "Dwi Fajar Novianto"
         self.location   = "Indonesia 🇮🇩"
@@ -18,7 +18,7 @@ class DataScientist:
     def quote(self):
         print("Data never lies... but people do. ")
 
-me = DataScientist()
+me = AboutMe()
 me.quote()
 ```
 
