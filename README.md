@@ -13,10 +13,11 @@ class DataScientist:
         self.location   = "Indonesia 🇮🇩"
         self.role       = "Data Scientist & AI Engineer"
         self.languages  = ["Python", "R", "SQL"]
-        self.interests  = ["Deep Learning", "NLP", "Computer Vision", "Data Analysis"]
+        self.interests  = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
+        self.passion    = "Building intelligent systems that make sense of data"
 
-       def quote(self):
-         print("Data never lies... but people do. ")
+    def quote(self):
+        print("Data never lies... but people do. ")
 
 me = DataScientist()
 me.quote()
